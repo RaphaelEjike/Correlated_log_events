@@ -120,3 +120,14 @@ Correlated events also streamline investigation workflows, as the entire context
 
 ## Conclusion
 Through contextual analysis, effective use of correlation rules, and operational efficiency improvements, log correlation becomes a key element of a robust cybersecurity defense. It transforms raw data into actionable intelligence, enabling a proactive and streamlined approach to security.
+
+Resources 
+ 
+- <a href="https://github.com/RaphaelEjike/ThreatHunting ">My KQL threat hunting workflows (Private)</a>
+- <a href="https://www.kqlsearch.com/">www.kqlsearch.com</a>
+- <a href="https://learn.microsoft.com/en-us/kusto/query/tutorials/learn-common-operators?view=azure-data-explorer&preserve-view=true&pivots=azuredataexplorer">Kusto query tutorials</a>
+- <a href="https://kqlquery.com/">https://kqlquery.com/</a>
+- <a href="https://kqlquery.com/posts/kql_sources/">https://kqlquery.com/posts/kql_sources/</a>
+- <a href="https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet_dark.pdf">https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet_dark.pdf</a>
+
+
