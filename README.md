@@ -1,2 +1,6 @@
-# Correlated_log_events
-This Project is explains the importance of Correlating log events as the key to operational effectiveness because attackers only need one successful exploit, while defenders must secure a vast range of assets.
+# Correlated log events the key to operational effectiveness  
+Cyber-attacks come in many flavours distributed denial of service, virus, SQL injection, Cross site scripting etc. This is why it is imperative to correlate log events across different data sources—firewalls, endpoints, databases, and web servers. This can reveal patterns that single logs alone cannot, highlighting potential attacks before they become successful breaches.
+
+This is becoming increasing more important because of the challenging landscape defenders face: attackers only need one successful exploit, while defenders must secure a vast range of assets. By effectively correlating log events, defenders can break down this asymmetry, uncovering connections that might otherwise go unnoticed. For example, a lone SQL injection attempt might seem benign, but if seen alongside unusual traffic from the same IP or unusual login attempts, it could signal a coordinated attack.
+
+With tools like Microsoft Sentinel, which offers robust analytics rules, you can automate threat detection across these correlated events. Sentinel's analytics rules allow users to aggregate events into incidents, which provides security teams with context-rich insights into attacks. This way, they can identify an attack in its early stages rather than responding to isolated events after the fact.
